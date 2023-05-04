@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mi:
 Full Stack Engineer<br>Specializing in back end development
 
 
